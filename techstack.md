@@ -210,7 +210,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/node](https://github.com/TawandaMavondo/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|507<br/>Tools used|12/09/23 <br/>Report generated|
+|516<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -1152,9 +1152,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (397)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (406)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (397)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (406)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -1238,6 +1238,7 @@ Full tech stack [here](/techstack.md)
 |[camelcase](https://www.npmjs.com/camelcase)|v5.3.1|04/13/17|Rebecca Turner |MIT|N/A|
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v6.0.0|04/21/18|Rebecca Turner |WTFPL|N/A|
 |[chai-string](https://www.npmjs.com/chai-string)|v1.4.0|10/27/17|Myles Borins |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|04/13/17|Rebecca Turner |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|04/02/17|Rich Trott |MIT|N/A|
 |[circular-json](https://www.npmjs.com/circular-json)|v0.3.3|04/25/20|himself65 |MIT|N/A|
 |[clang-format](https://www.npmjs.com/clang-format)|v1.2.3|07/13/18|Joyee Cheung |Apache-2.0|N/A|
@@ -1324,6 +1325,7 @@ Full tech stack [here](/techstack.md)
 |[fast-deep-equal](https://www.npmjs.com/fast-deep-equal)|v2.0.1|08/29/18|Kat Marchán |MIT|N/A|
 |[faucet](https://www.npmjs.com/faucet)|v0.0.1|08/29/18|Kat Marchán |MIT|N/A|
 |[find-up](https://www.npmjs.com/find-up)|v2.1.0|01/29/19|Kat Marchán |MIT|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.68.0|04/21/18|Rebecca Turner |MIT|N/A|
 |[flow-copy-source](https://www.npmjs.com/flow-copy-source)|v2.0.7|07/21/19|cjihrig |MIT|N/A|
 |[form-data](https://www.npmjs.com/form-data)|v2.3.3|04/13/17|Rebecca Turner |MIT|N/A|
 |[formidable](https://www.npmjs.com/formidable)|v1.0.17|08/29/18|Kat Marchán |MIT|N/A|
@@ -1357,6 +1359,7 @@ Full tech stack [here](/techstack.md)
 |[highland](https://www.npmjs.com/highland)|v2.3.0|04/13/17|Rebecca Turner |Apache-2.0|N/A|
 |[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v3.0.2|04/13/17|Rebecca Turner |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v2.2.1|11/18/19|claudiahdz |MIT|[](https://github.com/advisories/GHSA-pc5p-h8pf-mvwp) (Moderate)|
+|[husky](https://www.npmjs.com/husky)|v0.13.3|05/29/17|Kat Marchán |MIT|N/A|
 |[hyperquest](https://www.npmjs.com/hyperquest)|v2.1.3|01/29/19|Kat Marchán |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|v2.1.11|05/09/17|Kat Marchán |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|05/09/17|Kat Marchán |MIT|N/A|
@@ -1379,6 +1382,7 @@ Full tech stack [here](/techstack.md)
 |[jasmine-spec-reporter](https://www.npmjs.com/jasmine-spec-reporter)|v4.1.1|04/21/18|Rebecca Turner |Apache-2.0|N/A|
 |[js-beautify](https://www.npmjs.com/js-beautify)|v1.7.3|08/29/18|Kat Marchán |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.13.1|05/27/19|Rich Trott |MIT|N/A|
+|[jscs](https://www.npmjs.com/jscs)|v3.0.7|07/03/19|isaacs |MIT|N/A|
 |[jsdoc-to-markdown](https://www.npmjs.com/jsdoc-to-markdown)|v4.0.1|01/29/19|Kat Marchán |MIT|N/A|
 |[jsesc](https://www.npmjs.com/jsesc)|v0.5.0|02/28/19|Rich Trott |MIT|N/A|
 |[jshint-stylish](https://www.npmjs.com/jshint-stylish)|v0.2.0|04/13/17|Rebecca Turner |MIT|N/A|
@@ -1404,6 +1408,7 @@ Full tech stack [here](/techstack.md)
 |[knox](https://www.npmjs.com/knox)|v0.8.10|06/24/16|Rebecca Turner |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|v14.3.2|07/14/17|Kat Marchán |BSD-3-Clause|N/A|
 |[latest-version](https://www.npmjs.com/latest-version)|v5.1.0|08/17/20|Ruy Adorno |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v3.4.1|05/29/17|Kat Marchán |MIT|N/A|
 |[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|10/15/16|Rich Trott |MIT|N/A|
 |[lodash.clonedeep](https://www.npmjs.com/lodash.clonedeep)|v4.5.0|01/29/19|Kat Marchán |MIT|N/A|
 |[lodash.uniq](https://www.npmjs.com/lodash.uniq)|v4.5.0|01/29/19|Kat Marchán |MIT|N/A|
@@ -1411,7 +1416,7 @@ Full tech stack [here](/techstack.md)
 |[lru-cache](https://www.npmjs.com/lru-cache)|v4.1.5|09/03/19|claudiahdz |ISC|N/A|
 |[make-dir](https://www.npmjs.com/make-dir)|v1.3.0|07/14/17|Kat Marchán |MIT|N/A|
 |[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.22.0|09/01/20|cjihrig |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.7.0|07/21/20|claudiahdz |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[marked](https://www.npmjs.com/marked)|v0.7.0|07/21/20|claudiahdz |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
 |[mime-db](https://www.npmjs.com/mime-db)|v1.43.0|08/29/18|Kat Marchán |MIT|N/A|
 |[mime-types](https://www.npmjs.com/mime-types)|v2.1.26|05/09/17|Kat Marchán |MIT|N/A|
 |[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|05/29/17|Kat Marchán |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
@@ -1496,8 +1501,10 @@ Full tech stack [here](/techstack.md)
 |[rollup-plugin-sourcemaps](https://www.npmjs.com/rollup-plugin-sourcemaps)|v0.4.2|10/25/19|cjihrig |MIT|N/A|
 |[rollup-plugin-terser](https://www.npmjs.com/rollup-plugin-terser)|v5.3.0|04/25/20|himself65 |MIT|N/A|
 |[rollup-plugin-typescript2](https://www.npmjs.com/rollup-plugin-typescript2)|v0.20.1|03/05/20|Matheus Marchini |MIT|N/A|
+|[rx](https://www.npmjs.com/rx)|v2.3.25|04/13/17|Rebecca Turner |Apache-2.0|N/A|
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.2|01/29/19|Kat Marchán |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.1|07/03/19|isaacs |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v6.3.2|04/13/17|Rebecca Turner |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)|
 |[semver](https://www.npmjs.com/semver)|v5.7.1|07/03/19|isaacs |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
 |[serve-static](https://www.npmjs.com/serve-static)|v1.14.1|04/13/17|Rebecca Turner |MIT|N/A|
 |[server-destroy](https://www.npmjs.com/server-destroy)|v1.0.1|10/29/15|Rebecca Turner |ISC|N/A|
@@ -1518,6 +1525,7 @@ Full tech stack [here](/techstack.md)
 |[table](https://www.npmjs.com/table)|v5.4.6|07/21/19|cjihrig |BSD-3-Clause|N/A|
 |[tap](https://www.npmjs.com/tap)|v14.10.2|12/11/16|Jan Krems |ISC|N/A|
 |[tap-spec](https://www.npmjs.com/tap-spec)|v4.1.1|10/26/16|Kat Marchán |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v2.12.3|12/19/16|Kat Marchán |MIT|N/A|
 |[tape-run](https://www.npmjs.com/tape-run)|v2.1.3|10/26/16|Kat Marchán |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|v4.4.13|03/14/12|isaacs |ISC|[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)|
 |[tar-fs](https://www.npmjs.com/tar-fs)|v2.0.0|07/03/19|isaacs |MIT|N/A|
@@ -1553,6 +1561,7 @@ Full tech stack [here](/techstack.md)
 |[wrap-ansi](https://www.npmjs.com/wrap-ansi)|v2.1.0|07/21/20|claudiahdz |MIT|N/A|
 |[write](https://www.npmjs.com/write)|v1.0.3|08/06/16|Rich Trott |MIT|N/A|
 |[write-file-atomic](https://www.npmjs.com/write-file-atomic)|v3.0.1|04/21/18|Rebecca Turner |ISC|N/A|
+|[xo](https://www.npmjs.com/xo)|v0.16.0|04/03/15|Forrest L Norvell |MIT|N/A|
 |[yargs](https://www.npmjs.com/yargs)|v12.0.5|07/21/20|claudiahdz |MIT|N/A|
 |[yargs-parser](https://www.npmjs.com/yargs-parser)|v11.1.1|07/21/20|claudiahdz |ISC|[CVE-2020-7608](https://github.com/advisories/GHSA-p9pc-299p-vxgp) (Moderate)|
 
