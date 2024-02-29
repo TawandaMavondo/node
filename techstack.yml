@@ -2,7 +2,7 @@ repo_name: TawandaMavondo/node
 report_id: 9bf5ad4d4da89e92dcda174896746385
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:29:53+00:00'
+timestamp: '2024-02-29T19:02:17+00:00'
 requested_by: addaleax
 provider: github
 branch: master
@@ -318,7 +318,7 @@ tools:
   last_updated_by: cjihrig
   last_updated_on: 2019-07-21 04:15:32.000000000 Z
 - name: ServiceStack
-  description: 'A configuration free, code-first, light-weight framework '
+  description: A configuration free, code-first, light-weight framework
   website_url: https://servicestack.net/
   open_source: false
   hosted_saas: false
@@ -463,7 +463,7 @@ tools:
   last_updated_by: Kat Marchán
   last_updated_on: 2017-05-09 21:46:02.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
@@ -591,8 +591,8 @@ tools:
   last_updated_by: Kat Marchán
   last_updated_on: 2015-06-05 02:04:48.000000000 Z
 - name: EditorConfig
-  description: 'A file format and collection of text editor plugins for maintaining
-    consistent coding styles '
+  description: A file format and collection of text editor plugins for maintaining
+    consistent coding styles
   website_url: http://editorconfig.org
   open_source: false
   hosted_saas: false
@@ -795,7 +795,7 @@ tools:
   last_updated_by: Rebecca Turner
   last_updated_on: 2017-04-13 04:47:49.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.13.7
   license: MIT
@@ -4463,6 +4463,13 @@ tools:
   detection_source: deps/npm/node_modules/socks/package.json
   last_updated_by: Rebecca Turner
   last_updated_on: 2018-04-21 01:26:37.000000000 Z
+  vulnerabilities:
+  - name: NPM IP package incorrectly identifies some private IP addresses as public
+    cve_id: CVE-2023-42282
+    cve_url: https://github.com/advisories/GHSA-78xj-cgh5-2h22
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 1.1.9
 - name: is
   description: The definitive JavaScript type testing library
   package_url: https://www.npmjs.com/is
